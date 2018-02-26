@@ -1,4 +1,5 @@
 # decops_aula2
 Sylvester Stalone
-Daniel Crayg
+Pelé 
 Liam Neeson
+Carro
